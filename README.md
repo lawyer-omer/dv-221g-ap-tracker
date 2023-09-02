@@ -38,8 +38,6 @@ node compare.js
 ```
 
 
-Replace `script.js` with the actual filename if it's different.
-
 3. The script will process the data, compare it across dates, and generate JSON and CSV files containing the identified differences. The exported files will be named `differences.json` and `differences.csv`.
 
 ## Features
